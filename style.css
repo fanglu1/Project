@@ -79,3 +79,14 @@ li a{
     text-align: center;
     color: white;
 }
+
+.projects {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px blue;
+    font-size: 50px;
+}
+
+table, th, col, td {
+    border: 1px solid;
+}
