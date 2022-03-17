@@ -1,5 +1,12 @@
+body {
+    background-color: #FFE53B;
+    background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%);
+    
+    ;
+}
 nav {
-    background-color: tan;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
     display: flex;
     width: 100%;
     height: 70px;
@@ -34,7 +41,6 @@ li a{
 }
 
 .bio {
-    background-color: tan;
     margin: auto;
     width: 20%;
     border: 3px solid #0d0d0e;
@@ -87,6 +93,30 @@ li a{
     font-size: 50px;
 }
 
-table, th, col, td {
+table, th, tr, td {
     border: 1px solid;
+}
+
+table {
+    width: 50%;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.proj {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px blue;
+    font-size: 50px;    
+}
+
+.about {
+    border: 3px solid #0d0d0e;
+    padding: 10px;
+    color: white; 
+    text-align: center;
+    font-size: 25px
+    
 }
