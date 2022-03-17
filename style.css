@@ -1,0 +1,42 @@
+nav {
+    background-color: #6388bb;
+    display: flex;
+    width: 100%;
+    height: 70px;
+    align-items: stretch;
+    justify-content: space-around;
+}
+
+.header-text {
+    color: white;
+    font-family: #f9faf8;
+    font-size: 24px;
+    font-weight: 300;
+    padding-left: 12px;
+    padding-right: 300px;
+}
+.link {
+    list-style: none;
+    display: flex;
+    align-items: right;
+    font-size: 18px;
+}
+
+.bio {
+    background-color: #6388bb;
+    margin: auto;
+    width: 20%;
+    border: 3px solid #0d0d0e;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+.hobby {
+    margin: auto;
+    width: 20%;
+    border: 3px solid #0d0d0e;
+    padding: 10px;
+    color: white; 
+    text-align: center;
+    font-size: 25px;
+}
