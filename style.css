@@ -48,16 +48,29 @@ li a{
     color: white;
     text-align: center;
 }
-.hobby {
+.ProPic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+}
+.school {
     margin: auto;
-    width: 20%;
+    width: 30%;
     border: 3px solid #0d0d0e;
     padding: 10px;
     color: white; 
     text-align: center;
     font-size: 25px;
 }
-
+.ccu {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    text-align: center;
+}
 .Interest {
     text-align: center;
     color: white;
@@ -118,5 +131,12 @@ table {
     color: white; 
     text-align: center;
     font-size: 25px
-    
+  }
+
+.html {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center  
 }
