@@ -130,7 +130,9 @@ table {
     padding: 10px;
     color: white; 
     text-align: center;
-    font-size: 25px
+    font-size: 10px;
+    margin: auto;
+    width: 20%;
   }
 
 .html {
